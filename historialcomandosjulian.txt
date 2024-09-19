@@ -1,0 +1,68 @@
+pwd
+ls
+lidir
+dir
+dir --help
+man dir
+clear
+ls -l
+ls -r
+ls -l -r
+ls -lr
+cd Documentos
+cd /var
+cd .
+cd ..
+ls
+cd var
+ls
+cd local
+pwd
+cd var
+cd /
+pwd
+cd /var /log
+cd /var/log
+ls -l
+ls -lt
+whoami
+date
+su
+cd /home/debian/Descargas
+dir
+s
+su
+cd /var
+cd log
+ls
+cat boot.log
+su
+systemctl
+su
+pwd
+mkdir repogit
+cd repogit
+mkdir -p {carpetauno, carpetados}
+ls
+mkdir -p {carpetauno,carpetados}
+ls
+mkdir -p ejemplo/{1,2}
+ls
+ls ejemplo
+tree
+su
+tree
+man tree
+cd ..
+pwd
+useradd yo
+su
+pwd
+cd ..
+ls
+ls -la
+su
+pwd
+cd ..
+mkdir yo
+su
